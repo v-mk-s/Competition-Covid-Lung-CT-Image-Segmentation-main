@@ -1,4 +1,4 @@
-# _Competition-Covid-Lung-CT-Image-Segmentation-main
+# Competition-Covid-Lung-CT-Image-Segmentation-main
 👩‍⚕️ Covid Lung CT Image Segmentation
 
 - [Kaggle Contest](https://www.kaggle.com/c/tgcovid)
